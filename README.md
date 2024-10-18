@@ -2,7 +2,7 @@
 
 [![AIOTubeDown](https://raw.githubusercontent.com/veasnawp/aiotubedown-app/master/.github/logo.svg)](#readme)
 
-[![Release version](https://img.shields.io/github/v/release/veasnawp/aiotubedown?color=brightgreen&label=Download&style=for-the-badge)](#installation "Installation")
+[![Release version](https://img.shields.io/github/v/release/veasnawp/aiotubedown-app?color=brightgreen&label=Download&style=for-the-badge)](#installation "Installation")
 
 </div>
 
