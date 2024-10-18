@@ -1,6 +1,8 @@
 <div align="center">
 
-[![AIOTubeDown](https://raw.githubusercontent.com/veasnawp/aiotubedown-app/master/.github/logo.svg|width=200)](#readme)
+<a href="#readme">
+<img alt="AIOTubeDown" src="https://raw.githubusercontent.com/veasnawp/aiotubedown-app/master/.github/logo.svg" width="150">
+</a>
 
 [![Release version](https://img.shields.io/github/v/release/veasnawp/aiotubedown-app?color=brightgreen&label=Download&style=for-the-badge)](#installation "Installation")
 
