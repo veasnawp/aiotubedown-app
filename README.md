@@ -15,6 +15,7 @@ AIOTubeDown is a web application that can Download and convert HD, 2k, 4k, 8k vi
 ## Demo
 
 - [Goto AIOTubeDown](https://aio-tube-down.vercel.app)
+- [Dashboard](https://aio-tube-down.vercel.app/dashboard) (login require)
 
 ## INSTALLATION
 
